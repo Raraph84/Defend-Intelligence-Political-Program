@@ -1,4 +1,5 @@
 # Readme à la rache
+Ce script récupère les messages dans le tchat Twitch de Defend Intelligence et crée un programme politique à partir des ces derniers
 
 ## Installation
 Installer NodeJS ici https://nodejs.org/en
